@@ -1,2 +1,2 @@
 # Ejemplo
-Este repositorio es para hacer algún ejemplo 
+Este repositorio es para hacer lo que sea 
